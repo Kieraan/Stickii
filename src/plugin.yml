@@ -1,0 +1,9 @@
+name: Stickii
+author: Kieraan
+version: 0.2
+main: uk.co.kieraan.stickii.Stickii
+description: Delete any block up to 50 blocks away with a stick!
+commands:
+  stickii:
+    description: Toggles Stickii on/off.
+    usage: /<command>

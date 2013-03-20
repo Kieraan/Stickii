@@ -1,0 +1,11 @@
+#
+# Stickii 0.2
+# By Kieraan
+#
+
+# Console Logging.
+# ALL = Outputs all Stickii usage. 
+# TOGGLE = Outputs Stickii enables/disables.
+# NONE = Outputs nothing.
+
+consoleLog: TOGGLE

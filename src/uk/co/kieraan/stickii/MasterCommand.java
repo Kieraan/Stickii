@@ -1,4 +1,4 @@
-package uk.co.endofinet.plugins.stickii;
+package uk.co.kieraan.stickii;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
