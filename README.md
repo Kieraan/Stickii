@@ -1,4 +1,4 @@
-Stickii 0.3
+Stickii 0.2
 ===========
 
 Stickii Bukkit plugin reborn.
