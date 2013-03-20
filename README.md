@@ -1,6 +1,4 @@
-Stickii 0.1
+Stickii 0.3
 ===========
 
-Stickii Bukkit plugin reborn
-
-CURRENT VERSION IS NOT FULLY TESTED BUT WORKS FINE :)
+Stickii Bukkit plugin reborn.
